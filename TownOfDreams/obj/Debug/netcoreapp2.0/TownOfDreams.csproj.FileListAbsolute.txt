@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\TownOfDreams\TownOfDreams\bin\Debug\netcoreapp2.0\TownOfDreams.deps.json
+C:\Users\Admin\source\repos\TownOfDreams\TownOfDreams\bin\Debug\netcoreapp2.0\TownOfDreams.runtimeconfig.json
+C:\Users\Admin\source\repos\TownOfDreams\TownOfDreams\bin\Debug\netcoreapp2.0\TownOfDreams.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\TownOfDreams\TownOfDreams\bin\Debug\netcoreapp2.0\TownOfDreams.dll
+C:\Users\Admin\source\repos\TownOfDreams\TownOfDreams\bin\Debug\netcoreapp2.0\TownOfDreams.pdb
+C:\Users\Admin\source\repos\TownOfDreams\TownOfDreams\obj\Debug\netcoreapp2.0\TownOfDreams.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\TownOfDreams\TownOfDreams\obj\Debug\netcoreapp2.0\TownOfDreams.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TownOfDreams\TownOfDreams\obj\Debug\netcoreapp2.0\TownOfDreams.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TownOfDreams\TownOfDreams\obj\Debug\netcoreapp2.0\TownOfDreams.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TownOfDreams\TownOfDreams\obj\Debug\netcoreapp2.0\TownOfDreams.dll
+C:\Users\Admin\source\repos\TownOfDreams\TownOfDreams\obj\Debug\netcoreapp2.0\TownOfDreams.pdb

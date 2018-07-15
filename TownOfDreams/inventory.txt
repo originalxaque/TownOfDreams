@@ -1,0 +1,7 @@
+lighter , 1
+hammer , 0
+crank , 0
+copper key , 0
+weed killer , 0
+bag of holding , 0
+snack , 0
